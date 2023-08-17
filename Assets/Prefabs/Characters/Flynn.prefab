@@ -1,0 +1,68 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &4242983205781603693
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4242983205781603692}
+  - component: {fileID: 4242983205781603695}
+  m_Layer: 0
+  m_Name: Flynn
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4242983205781603692
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4242983205781603693}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -436.08112, y: -242.4142, z: -4.820152}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &4242983205781603695
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4242983205781603693}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 25fb867d2049d41f597aefdd6b19f598, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  nameText: Flynn
+  nameColor: {r: 0, g: 0, b: 0, a: 1}
+  soundEffect: {fileID: 0}
+  portraits:
+  - {fileID: 21300000, guid: 21689f99aac345c4a93aec3e7cf96257, type: 3}
+  - {fileID: 21300000, guid: c9923f1209bc1c041b04045fae613943, type: 3}
+  - {fileID: 21300000, guid: a326907ac537c3243b226b63eaa9bdb6, type: 3}
+  - {fileID: 21300000, guid: c102865b722e4b142b1859f9c08cff44, type: 3}
+  - {fileID: 21300000, guid: f5008a6f82ca1ac4cb64ab3cee47b903, type: 3}
+  - {fileID: 21300000, guid: 064bf9f847d66fd449d99037c70fd688, type: 3}
+  - {fileID: 21300000, guid: 1725b2dabad0cb24ba7d520cf2c00ab1, type: 3}
+  - {fileID: 21300000, guid: de338024f9c4c434c9cd888534c4e988, type: 3}
+  - {fileID: 21300000, guid: 6fd84c77129d8c040a279cb26c7d5760, type: 3}
+  - {fileID: 21300000, guid: ba9ca5c748a298c4380def2e459ecd22, type: 3}
+  - {fileID: 21300000, guid: 9595b5bfbe551c54d9a63abddf51b652, type: 3}
+  - {fileID: 21300000, guid: 3ea890a34713b36488785a5a8038f737, type: 3}
+  - {fileID: 21300000, guid: ec0bfb006677d3641ad1903379472c02, type: 3}
+  - {fileID: 21300000, guid: 0fcd07458399a164badb6833b21c9f1b, type: 3}
+  - {fileID: 21300000, guid: ffdb436cf801e3742a152c5eff7c983a, type: 3}
+  portraitsFace: 0
+  setSayDialog: {fileID: 0}
+  description: 
