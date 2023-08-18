@@ -3963,9 +3963,8 @@ MonoBehaviour:
     width: 1114
     height: 859
   selectedBlocks:
-  - {fileID: 2101510526}
-  selectedCommands:
-  - {fileID: 2101510572}
+  - {fileID: 2101510465}
+  selectedCommands: []
   variables:
   - {fileID: 2101510470}
   description: Main Flowchart
