@@ -2079,7 +2079,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 124
     y: 0
-    width: 106
+    width: 108.66667
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -3390,7 +3390,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 126
     y: 119
-    width: 107
+    width: 110
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -3545,7 +3545,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 242
     y: 46
-    width: 107
+    width: 109.33333
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -3573,7 +3573,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 13
     y: 47
-    width: 106
+    width: 108
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -6246,7 +6246,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c4782cf42f2644447b9631f6e522160b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  volume: 1
+  volume: 0
   loop: 1
   targetAudioSource: {fileID: 0}
   audioMode: 0
