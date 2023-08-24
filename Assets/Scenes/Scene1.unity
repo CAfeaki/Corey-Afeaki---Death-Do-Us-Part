@@ -3938,7 +3938,6 @@ GameObject:
   - component: {fileID: 2101510480}
   - component: {fileID: 2101510511}
   - component: {fileID: 2101510510}
-  - component: {fileID: 2101510509}
   - component: {fileID: 2101510508}
   - component: {fileID: 2101510507}
   - component: {fileID: 2101510506}
@@ -4047,8 +4046,10 @@ MonoBehaviour:
     y: -340
     width: 1114
     height: 859
-  selectedBlocks: []
-  selectedCommands: []
+  selectedBlocks:
+  - {fileID: 2101510465}
+  selectedCommands:
+  - {fileID: 2101510508}
   variables:
   - {fileID: 2101510470}
   description: Main Flowchart
@@ -4314,7 +4315,6 @@ MonoBehaviour:
   - {fileID: 2101510480}
   - {fileID: 2101510511}
   - {fileID: 2101510510}
-  - {fileID: 2101510509}
   - {fileID: 2101510508}
   - {fileID: 2101510507}
   - {fileID: 2101510506}
@@ -5780,36 +5780,6 @@ MonoBehaviour:
   stopVoiceover: 1
   waitForVO: 0
   setSayDialog: {fileID: 0}
---- !u!114 &2101510509
-MonoBehaviour:
-  m_ObjectHideFlags: 2
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 2101510453}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 3ac5ce55bc698fa4290939ef6e426501, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  itemId: 38
-  indentLevel: 0
-  display: 1
-  stage: {fileID: 0}
-  character: {fileID: 178424476}
-  replacedCharacter: {fileID: 0}
-  portrait: {fileID: 21300000, guid: a22573b083ca51a42924efcde643785d, type: 3}
-  offset: 0
-  fromPosition: {fileID: 0}
-  toPosition: {fileID: 0}
-  facing: 0
-  useDefaultSettings: 1
-  fadeDuration: 0.5
-  moveDuration: 1
-  shiftOffset: {x: 0, y: 0}
-  move: 0
-  shiftIntoPlace: 0
-  waitUntilFinished: 0
 --- !u!114 &2101510510
 MonoBehaviour:
   m_ObjectHideFlags: 2
