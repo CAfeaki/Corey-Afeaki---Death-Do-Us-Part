@@ -4035,7 +4035,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   version: 1
-  scrollPos: {x: -137.89691, y: 258.5}
+  scrollPos: {x: -92.89691, y: 301.5}
   variablesScrollPos: {x: 0, y: 0}
   variablesExpanded: 1
   blockViewHeight: 400
@@ -4047,9 +4047,8 @@ MonoBehaviour:
     width: 1114
     height: 859
   selectedBlocks:
-  - {fileID: 2101510465}
-  selectedCommands:
-  - {fileID: 2101510508}
+  - {fileID: 2101510456}
+  selectedCommands: []
   variables:
   - {fileID: 2101510470}
   description: Main Flowchart
