@@ -248,7 +248,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   version: 1
-  scrollPos: {x: -35.333336, y: 339.83334}
+  scrollPos: {x: 57.666664, y: 177.83334}
   variablesScrollPos: {x: 0, y: 0}
   variablesExpanded: 1
   blockViewHeight: 452.66666
@@ -262,7 +262,7 @@ MonoBehaviour:
   selectedBlocks:
   - {fileID: 16213608}
   selectedCommands:
-  - {fileID: 16213679}
+  - {fileID: 16213658}
   variables: []
   description: 
   stepPause: 0
@@ -509,7 +509,7 @@ MonoBehaviour:
   description: 
   character: {fileID: 1846366559}
   portrait: {fileID: 0}
-  voiceOverClip: {fileID: 0}
+  voiceOverClip: {fileID: 8300000, guid: b69fb10ea535cd34f93dc887cec9d96b, type: 3}
   showAlways: 1
   showCount: 1
   extendPrevious: 0
@@ -596,7 +596,7 @@ MonoBehaviour:
   description: 
   character: {fileID: 1482046902}
   portrait: {fileID: 0}
-  voiceOverClip: {fileID: 0}
+  voiceOverClip: {fileID: 8300000, guid: b4ac0b3183d9918499876c3e50628eab, type: 3}
   showAlways: 1
   showCount: 1
   extendPrevious: 0
@@ -654,7 +654,7 @@ MonoBehaviour:
   description: 
   character: {fileID: 1846366559}
   portrait: {fileID: 0}
-  voiceOverClip: {fileID: 0}
+  voiceOverClip: {fileID: 8300000, guid: 711e5d1fc9453204cabd9377fd11fb59, type: 3}
   showAlways: 1
   showCount: 1
   extendPrevious: 0
@@ -712,7 +712,7 @@ MonoBehaviour:
   description: 
   character: {fileID: 1482046902}
   portrait: {fileID: 0}
-  voiceOverClip: {fileID: 0}
+  voiceOverClip: {fileID: 8300000, guid: da0785d3ff8b30c4e81b784864026bab, type: 3}
   showAlways: 1
   showCount: 1
   extendPrevious: 0
@@ -769,7 +769,7 @@ MonoBehaviour:
   description: 
   character: {fileID: 1846366559}
   portrait: {fileID: 0}
-  voiceOverClip: {fileID: 0}
+  voiceOverClip: {fileID: 8300000, guid: 1352c9fd3d417cb4a92cac72f5cc451a, type: 3}
   showAlways: 1
   showCount: 1
   extendPrevious: 0
@@ -797,7 +797,7 @@ MonoBehaviour:
   description: 
   character: {fileID: 1482046902}
   portrait: {fileID: 0}
-  voiceOverClip: {fileID: 0}
+  voiceOverClip: {fileID: 8300000, guid: 1c9c3a8b807d5614ca1e393c56890b8b, type: 3}
   showAlways: 1
   showCount: 1
   extendPrevious: 0
@@ -854,7 +854,7 @@ MonoBehaviour:
   description: 
   character: {fileID: 1482046902}
   portrait: {fileID: 0}
-  voiceOverClip: {fileID: 0}
+  voiceOverClip: {fileID: 8300000, guid: 29629c809b3e93145903de67169234cb, type: 3}
   showAlways: 1
   showCount: 1
   extendPrevious: 0
@@ -911,7 +911,7 @@ MonoBehaviour:
   description: 
   character: {fileID: 1846366559}
   portrait: {fileID: 0}
-  voiceOverClip: {fileID: 0}
+  voiceOverClip: {fileID: 8300000, guid: b3c85d68c83b23c42919ea7eaca3bd32, type: 3}
   showAlways: 1
   showCount: 1
   extendPrevious: 0
@@ -969,7 +969,7 @@ MonoBehaviour:
   description: 
   character: {fileID: 1482046902}
   portrait: {fileID: 0}
-  voiceOverClip: {fileID: 0}
+  voiceOverClip: {fileID: 8300000, guid: 57ff3fe53203089439bedbea00fdaf8f, type: 3}
   showAlways: 1
   showCount: 1
   extendPrevious: 0
@@ -1027,7 +1027,7 @@ MonoBehaviour:
   description: 
   character: {fileID: 1846366559}
   portrait: {fileID: 0}
-  voiceOverClip: {fileID: 0}
+  voiceOverClip: {fileID: 8300000, guid: 6ec5e756456f9bf46ac73ad4a743fcd4, type: 3}
   showAlways: 1
   showCount: 1
   extendPrevious: 0
@@ -1085,7 +1085,7 @@ MonoBehaviour:
   description: 
   character: {fileID: 1482046902}
   portrait: {fileID: 0}
-  voiceOverClip: {fileID: 0}
+  voiceOverClip: {fileID: 8300000, guid: ebc6e99e008a6324493da1a7e0a30672, type: 3}
   showAlways: 1
   showCount: 1
   extendPrevious: 0
@@ -1142,7 +1142,7 @@ MonoBehaviour:
   description: 
   character: {fileID: 1846366559}
   portrait: {fileID: 0}
-  voiceOverClip: {fileID: 0}
+  voiceOverClip: {fileID: 8300000, guid: 8b5442486014fef458fa8110249675dc, type: 3}
   showAlways: 1
   showCount: 1
   extendPrevious: 0
@@ -1200,7 +1200,7 @@ MonoBehaviour:
   description: 
   character: {fileID: 1482046902}
   portrait: {fileID: 0}
-  voiceOverClip: {fileID: 0}
+  voiceOverClip: {fileID: 8300000, guid: f5a436a7b9812594da61870365f0d330, type: 3}
   showAlways: 1
   showCount: 1
   extendPrevious: 0
@@ -1257,7 +1257,7 @@ MonoBehaviour:
   description: 
   character: {fileID: 1482046902}
   portrait: {fileID: 0}
-  voiceOverClip: {fileID: 0}
+  voiceOverClip: {fileID: 8300000, guid: 5f0a51ba5614e6b4ab27112092c6bf26, type: 3}
   showAlways: 1
   showCount: 1
   extendPrevious: 0
@@ -1314,7 +1314,7 @@ MonoBehaviour:
   description: 
   character: {fileID: 1846366559}
   portrait: {fileID: 0}
-  voiceOverClip: {fileID: 0}
+  voiceOverClip: {fileID: 8300000, guid: 63b454c7b7802b54bb269345aba18934, type: 3}
   showAlways: 1
   showCount: 1
   extendPrevious: 0
@@ -1372,7 +1372,7 @@ MonoBehaviour:
   description: 
   character: {fileID: 1482046902}
   portrait: {fileID: 0}
-  voiceOverClip: {fileID: 0}
+  voiceOverClip: {fileID: 8300000, guid: 35d09d51ee8683f438e5ede72ff6cedb, type: 3}
   showAlways: 1
   showCount: 1
   extendPrevious: 0
@@ -1429,7 +1429,7 @@ MonoBehaviour:
   description: 
   character: {fileID: 1846366559}
   portrait: {fileID: 0}
-  voiceOverClip: {fileID: 0}
+  voiceOverClip: {fileID: 8300000, guid: b9f64a7b36b56434c8c3514071c0ac63, type: 3}
   showAlways: 1
   showCount: 1
   extendPrevious: 0
@@ -1486,7 +1486,7 @@ MonoBehaviour:
   description: 
   character: {fileID: 1482046902}
   portrait: {fileID: 0}
-  voiceOverClip: {fileID: 0}
+  voiceOverClip: {fileID: 8300000, guid: 5e71e070271de754aa52b11476e2f50b, type: 3}
   showAlways: 1
   showCount: 1
   extendPrevious: 0
@@ -1543,7 +1543,7 @@ MonoBehaviour:
   description: 
   character: {fileID: 1846366559}
   portrait: {fileID: 0}
-  voiceOverClip: {fileID: 0}
+  voiceOverClip: {fileID: 8300000, guid: 3e763c22ab59a76469394fd70ff69d98, type: 3}
   showAlways: 1
   showCount: 1
   extendPrevious: 0
@@ -1570,7 +1570,7 @@ MonoBehaviour:
   description: 
   character: {fileID: 1846366559}
   portrait: {fileID: 0}
-  voiceOverClip: {fileID: 0}
+  voiceOverClip: {fileID: 8300000, guid: 91630b62746afc6429e75f0a87d64027, type: 3}
   showAlways: 1
   showCount: 1
   extendPrevious: 0
@@ -1628,7 +1628,7 @@ MonoBehaviour:
   description: 
   character: {fileID: 1482046902}
   portrait: {fileID: 0}
-  voiceOverClip: {fileID: 0}
+  voiceOverClip: {fileID: 8300000, guid: 28f1e8e4c7009e94690348c519ce6ecf, type: 3}
   showAlways: 1
   showCount: 1
   extendPrevious: 0
@@ -1685,7 +1685,7 @@ MonoBehaviour:
   description: 
   character: {fileID: 1846366559}
   portrait: {fileID: 0}
-  voiceOverClip: {fileID: 0}
+  voiceOverClip: {fileID: 8300000, guid: d69a1f2375ec65b4a849c73131b9a6f3, type: 3}
   showAlways: 1
   showCount: 1
   extendPrevious: 0
@@ -1743,7 +1743,7 @@ MonoBehaviour:
   description: 
   character: {fileID: 1482046902}
   portrait: {fileID: 0}
-  voiceOverClip: {fileID: 0}
+  voiceOverClip: {fileID: 8300000, guid: 81b5643a23cf25044945906e2b5b7d1a, type: 3}
   showAlways: 1
   showCount: 1
   extendPrevious: 0
@@ -1801,7 +1801,7 @@ MonoBehaviour:
   description: 
   character: {fileID: 1482046902}
   portrait: {fileID: 0}
-  voiceOverClip: {fileID: 0}
+  voiceOverClip: {fileID: 8300000, guid: 526d37d69f4288946baf7d2e383a9340, type: 3}
   showAlways: 1
   showCount: 1
   extendPrevious: 0
@@ -1858,7 +1858,7 @@ MonoBehaviour:
   description: 
   character: {fileID: 1846366559}
   portrait: {fileID: 0}
-  voiceOverClip: {fileID: 0}
+  voiceOverClip: {fileID: 8300000, guid: 2fbab53d38d5abc4699f41f11ff939cf, type: 3}
   showAlways: 1
   showCount: 1
   extendPrevious: 0
@@ -1916,7 +1916,7 @@ MonoBehaviour:
   description: 
   character: {fileID: 1482046902}
   portrait: {fileID: 0}
-  voiceOverClip: {fileID: 0}
+  voiceOverClip: {fileID: 8300000, guid: 562218b358b07ff4fac626833786d785, type: 3}
   showAlways: 1
   showCount: 1
   extendPrevious: 0
@@ -1973,7 +1973,7 @@ MonoBehaviour:
   description: 
   character: {fileID: 1482046902}
   portrait: {fileID: 0}
-  voiceOverClip: {fileID: 0}
+  voiceOverClip: {fileID: 8300000, guid: b5f6fd0ae11611d4ea071c0a106b3deb, type: 3}
   showAlways: 1
   showCount: 1
   extendPrevious: 0
@@ -2030,7 +2030,7 @@ MonoBehaviour:
   description: 
   character: {fileID: 1846366559}
   portrait: {fileID: 0}
-  voiceOverClip: {fileID: 0}
+  voiceOverClip: {fileID: 8300000, guid: da2b46406380a954fa8f7fb957e140a4, type: 3}
   showAlways: 1
   showCount: 1
   extendPrevious: 0
@@ -2088,7 +2088,7 @@ MonoBehaviour:
   description: 
   character: {fileID: 1482046902}
   portrait: {fileID: 0}
-  voiceOverClip: {fileID: 0}
+  voiceOverClip: {fileID: 8300000, guid: 70c2d68a6909a574081bbf3888eedf40, type: 3}
   showAlways: 1
   showCount: 1
   extendPrevious: 0
@@ -2145,7 +2145,7 @@ MonoBehaviour:
   description: 
   character: {fileID: 1846366559}
   portrait: {fileID: 0}
-  voiceOverClip: {fileID: 0}
+  voiceOverClip: {fileID: 8300000, guid: da7cfe41749da6446afed5cdaba88e4d, type: 3}
   showAlways: 1
   showCount: 1
   extendPrevious: 0
@@ -2202,7 +2202,7 @@ MonoBehaviour:
   description: 
   character: {fileID: 1482046902}
   portrait: {fileID: 0}
-  voiceOverClip: {fileID: 0}
+  voiceOverClip: {fileID: 8300000, guid: 19b1e58ff1f50794aa9d89d19c81ec1f, type: 3}
   showAlways: 1
   showCount: 1
   extendPrevious: 0
@@ -2260,7 +2260,7 @@ MonoBehaviour:
   description: 
   character: {fileID: 1846366559}
   portrait: {fileID: 0}
-  voiceOverClip: {fileID: 0}
+  voiceOverClip: {fileID: 8300000, guid: 4be5845fadb4884489c39398ffc78517, type: 3}
   showAlways: 1
   showCount: 1
   extendPrevious: 0
@@ -2318,7 +2318,7 @@ MonoBehaviour:
   description: 
   character: {fileID: 1846366559}
   portrait: {fileID: 0}
-  voiceOverClip: {fileID: 0}
+  voiceOverClip: {fileID: 8300000, guid: 9e5c21c8d1e84644eb1de6c3ac870a41, type: 3}
   showAlways: 1
   showCount: 1
   extendPrevious: 0
@@ -2345,7 +2345,7 @@ MonoBehaviour:
   description: 
   character: {fileID: 1482046902}
   portrait: {fileID: 0}
-  voiceOverClip: {fileID: 0}
+  voiceOverClip: {fileID: 8300000, guid: e435360cc7d86844880328aa08592298, type: 3}
   showAlways: 1
   showCount: 1
   extendPrevious: 0
@@ -2402,7 +2402,7 @@ MonoBehaviour:
   description: 
   character: {fileID: 1846366559}
   portrait: {fileID: -625794125, guid: 0d811fde6117cf04da25dd87112028c8, type: 3}
-  voiceOverClip: {fileID: 0}
+  voiceOverClip: {fileID: 8300000, guid: 4f82f4656a2e8be4b911369fd3626f8e, type: 3}
   showAlways: 1
   showCount: 1
   extendPrevious: 0
@@ -2459,7 +2459,7 @@ MonoBehaviour:
   description: 
   character: {fileID: 1482046902}
   portrait: {fileID: -625794125, guid: 0d811fde6117cf04da25dd87112028c8, type: 3}
-  voiceOverClip: {fileID: 0}
+  voiceOverClip: {fileID: 8300000, guid: 7ac14b436b37b6c41860f1b44b9ff270, type: 3}
   showAlways: 1
   showCount: 1
   extendPrevious: 0
@@ -2516,7 +2516,7 @@ MonoBehaviour:
   description: 
   character: {fileID: 1846366559}
   portrait: {fileID: -625794125, guid: 0d811fde6117cf04da25dd87112028c8, type: 3}
-  voiceOverClip: {fileID: 0}
+  voiceOverClip: {fileID: 8300000, guid: 257df2a4db9c23c4cb29501e087b1027, type: 3}
   showAlways: 1
   showCount: 1
   extendPrevious: 0
@@ -2573,7 +2573,7 @@ MonoBehaviour:
   description: 
   character: {fileID: 1482046902}
   portrait: {fileID: 0}
-  voiceOverClip: {fileID: 0}
+  voiceOverClip: {fileID: 8300000, guid: 5c67ed3fc49c9e348bf8bab722571878, type: 3}
   showAlways: 1
   showCount: 1
   extendPrevious: 0
@@ -2630,7 +2630,7 @@ MonoBehaviour:
   description: 
   character: {fileID: 1846366559}
   portrait: {fileID: 0}
-  voiceOverClip: {fileID: 0}
+  voiceOverClip: {fileID: 8300000, guid: 690a39fd86bcbc94483b6bf8a50f8793, type: 3}
   showAlways: 1
   showCount: 1
   extendPrevious: 0
@@ -2687,7 +2687,7 @@ MonoBehaviour:
   description: 
   character: {fileID: 1482046902}
   portrait: {fileID: 0}
-  voiceOverClip: {fileID: 0}
+  voiceOverClip: {fileID: 8300000, guid: 198a6dbeb164bd845b663efce96c71d3, type: 3}
   showAlways: 1
   showCount: 1
   extendPrevious: 0
@@ -2745,7 +2745,7 @@ MonoBehaviour:
   description: 
   character: {fileID: 1482046902}
   portrait: {fileID: 0}
-  voiceOverClip: {fileID: 0}
+  voiceOverClip: {fileID: 8300000, guid: 2738d1d40bc9eb9439703dd2e1005616, type: 3}
   showAlways: 1
   showCount: 1
   extendPrevious: 0
@@ -2802,7 +2802,7 @@ MonoBehaviour:
   description: 
   character: {fileID: 1846366559}
   portrait: {fileID: 0}
-  voiceOverClip: {fileID: 0}
+  voiceOverClip: {fileID: 8300000, guid: b30fd51a5a4692241a2190966f550cff, type: 3}
   showAlways: 1
   showCount: 1
   extendPrevious: 0
@@ -2859,7 +2859,7 @@ MonoBehaviour:
   description: 
   character: {fileID: 1482046902}
   portrait: {fileID: 0}
-  voiceOverClip: {fileID: 0}
+  voiceOverClip: {fileID: 8300000, guid: bb05ded6974cf3c4aa60ace8a23ecde3, type: 3}
   showAlways: 1
   showCount: 1
   extendPrevious: 0
@@ -2916,7 +2916,7 @@ MonoBehaviour:
   description: 
   character: {fileID: 1846366559}
   portrait: {fileID: 0}
-  voiceOverClip: {fileID: 0}
+  voiceOverClip: {fileID: 8300000, guid: 2d587cdf698fdca42ad6e07ab339819a, type: 3}
   showAlways: 1
   showCount: 1
   extendPrevious: 0
@@ -3329,16 +3329,16 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c4782cf42f2644447b9631f6e522160b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  volume: 0
+  volume: 1
   loop: 1
   targetAudioSource: {fileID: 0}
-  audioMode: 0
+  audioMode: 1
   beepSounds:
   - {fileID: 8300000, guid: 774486030b696474e8b3cf7f178123da, type: 3}
   - {fileID: 8300000, guid: f637c5ce9d10e45c7855ed89bfc6b97e, type: 3}
   - {fileID: 8300000, guid: c53b7c20372e444c6bd7f2ac0729bbe2, type: 3}
   soundEffect: {fileID: 0}
-  inputSound: {fileID: 8300000, guid: 14a396b1562834718b2d52b9c4639264, type: 3}
+  inputSound: {fileID: 0}
 --- !u!114 &466879462
 MonoBehaviour:
   m_ObjectHideFlags: 0
