@@ -1510,6 +1510,7 @@ GameObject:
   - component: {fileID: 684535785}
   - component: {fileID: 684535804}
   - component: {fileID: 684535805}
+  - component: {fileID: 684535806}
   m_Layer: 0
   m_Name: Flowchart
   m_TagString: Untagged
@@ -1544,7 +1545,7 @@ MonoBehaviour:
   selectedBlocks:
   - {fileID: 684535688}
   selectedCommands:
-  - {fileID: 684535788}
+  - {fileID: 684535806}
   variables: []
   description: 
   stepPause: 0
@@ -1723,6 +1724,7 @@ MonoBehaviour:
   - {fileID: 684535789}
   - {fileID: 684535788}
   - {fileID: 684535787}
+  - {fileID: 684535806}
   - {fileID: 684535804}
   - {fileID: 684535785}
   - {fileID: 684535805}
@@ -3626,7 +3628,7 @@ MonoBehaviour:
   indentLevel: 0
   storyText: "So, if you\u2019re not interested-"
   description: 
-  character: {fileID: 0}
+  character: {fileID: 7851147779340185905}
   portrait: {fileID: 0}
   voiceOverClip: {fileID: 8300000, guid: 3a574bc1e850f81418d8a2dbe66420c1, type: 3}
   showAlways: 1
@@ -4932,7 +4934,7 @@ MonoBehaviour:
   setSayDialog: {fileID: 0}
 --- !u!114 &684535804
 MonoBehaviour:
-  m_ObjectHideFlags: 0
+  m_ObjectHideFlags: 2
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
@@ -4950,7 +4952,7 @@ MonoBehaviour:
   durationOLD: 0
 --- !u!114 &684535805
 MonoBehaviour:
-  m_ObjectHideFlags: 0
+  m_ObjectHideFlags: 2
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
@@ -4967,6 +4969,23 @@ MonoBehaviour:
     stringVal: Scene4
   loadingImage: {fileID: 0}
   sceneNameOLD: 
+--- !u!114 &684535806
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 684535685}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bd2f6be51b3d7490ba5633ee095d0391, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 120
+  indentLevel: 0
+  soundClip: {fileID: 8300000, guid: ad1847e28b9f8f54a970ff4963384587, type: 3}
+  volume: 0.5
+  waitUntilFinished: 0
 --- !u!1 &829608461
 GameObject:
   m_ObjectHideFlags: 0
